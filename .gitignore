@@ -1,0 +1,6 @@
+myapp
+terraform/.terraform/providers/registry.terraform.io/scott-the-programmer/minikube/0.5.4/darwin_arm64
+terraform/.terraform/providers/registry.terraform.io/scott-the-programmer/minikube/0.5.4/darwin_arm64/LICENSE
+terraform/.terraform/providers/registry.terraform.io/scott-the-programmer/minikube/0.5.4/darwin_arm64/README.md
+terraform/terraform.tfstate.backup
+terraform/.terraform/providers/registry.terraform.io/scott-the-programmer/minikube/0.5.4/darwin_arm64/terraform-provider-minikube_v0.5.4

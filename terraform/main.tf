@@ -13,10 +13,11 @@ provider "minikube" {
 
 resource "minikube_cluster" "docker" {
   driver       = "docker"
-  cluster_name = "terraform-provider-minikube-acc-docker"
+  cluster_name = "terraform-minikube"
   nodes        = 2
   addons = [
     "default-storageclass",
-    "storage-provisioner"
+    "storage-provisioner",
+    "registry"
   ]
 }
